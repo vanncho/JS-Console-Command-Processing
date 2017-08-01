@@ -108,6 +108,7 @@ Create the GitHub project and invite all team members.
 Design the project structure (files, classes, interfaces, command parsing logic, others).
 The project structure should allow adding new commands easily.
 The project structure should allow several team members to work in parallel on the shared source code. Think about how to merge conflicting changes!
+
 Design and implement the command parsing and processing infrastructure.
 Implement the processing of the first command line (entering the input list)
 Implement the “append” command.
@@ -120,12 +121,9 @@ Implement the “roll right” command.
 Implement the “sort” command.
 Implement the “count” command.
 Implement the “end” command.
+
 Process all Trello tasks for the project until the project is finished.
 Assign project members (one or several) for each task.
 Use the task flow: Backlog  In Progress  For Review  Done.
 
 5. Submitting Your Work
-You should submit until 23-July-2017 a link to your GitHub repository at the course site under the topic “Exercises: Management Boards”: https://softuni.bg/trainings/1686/practical-teamwork-javascript-may-2017.
-In the README.md file put a link to your Trello project.
-Make sure your Trello project is public (for view only).
-Each team member submits the same link!
