@@ -1,6 +1,6 @@
 # JS-Console-Command-Processing
 Simple JavaScript Console Command Processing Application
-</br><strong><h3>LINK ORIGINAL GIT REPOSITORY:</h3><a target="_blank" href="https://github.com/erogleva/list-processing-teamwork">https://github.com/erogleva/list-processing-teamwork</a></strong>
+</br><strong><h3>LINK TO ORIGINAL GIT REPOSITORY WHERE THERE ARE ALL TEAM MEMBERS COMMITS:</h3><a target="_blank" href="https://github.com/erogleva/list-processing-teamwork">https://github.com/erogleva/list-processing-teamwork</a></strong>
 
 List Processing – Teamwork Project Assignment
 This document describes the teamwork assignment for the “List Processing” console-based application. The goal of this teamwork exercise is to gain team collaboration skills using tools like GitHub and Trello.
